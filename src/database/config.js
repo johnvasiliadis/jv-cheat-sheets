@@ -2,10 +2,10 @@ import * as firebase from 'firebase'
 
 var config = {
     apiKey: process.env.DB_FB_APIKEY,
-    authDomain: "photowall-cd818.firebaseapp.com",
-    databaseURL: "https://photowall-cd818.firebaseio.com",
-    projectId: "photowall-cd818",
-    storageBucket: "photowall-cd818.appspot.com",
+    authDomain: "jv-cheat-sheets.firebaseapp.com",
+    databaseURL: "https://jv-cheat-sheets.firebaseio.com",
+    projectId: "jv-cheat-sheets",
+    storageBucket: "jv-cheat-sheets.appspot.com",
     messagingSenderId: "281883264847"
 }
 

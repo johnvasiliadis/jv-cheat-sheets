@@ -24,7 +24,7 @@ class Main extends Component {
         return (
             <div>
                 {/* <h1><Link to="/">Photowall</Link></h1> */}
-                <h1><Link to="/">Might Right</Link></h1>
+                <h1><Link to="/">JV Cheat Sheets </Link></h1>
                 <Route exact path="/" render={() => (
                     <div>
                         <PhotoWall {...this.props} />
