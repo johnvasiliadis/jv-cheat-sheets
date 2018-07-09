@@ -61,6 +61,7 @@ body {
  
 }
  
+/*
 .figure .single-photo {
     flex-basis: calc(33.333% - 4rem);
     flex-grow: 1;
@@ -71,7 +72,7 @@ body {
     background: #fff;
     position: relative;
 }
- 
+ */
  
 .single-photo {
     max-width: 1000px;
